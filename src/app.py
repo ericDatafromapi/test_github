@@ -3,4 +3,4 @@ def saluer(nom):
 
 
 if __name__ == "__main__":
-    print(saluer("Étudiant"))
+    print(saluer("Étudiant Thierry"))

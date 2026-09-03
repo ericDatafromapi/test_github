@@ -4,5 +4,5 @@ Atelier Git
 Projet de démonstration pour apprendre le versionnement.
 
 Version actuelle : 1.0
-Formateur : à compléter
-Date : à compléter
+Formateur : Thierry
+Date : 03/09/2026
