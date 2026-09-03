@@ -1,0 +1,4 @@
+Journal du projet
+=================
+
+v1.0 - Création du projet de démonstration.
